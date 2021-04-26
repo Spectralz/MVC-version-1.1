@@ -1,0 +1,6 @@
+userid;name;lastname;dateofbirth;telephone;email;password;gender;dateregistration;notes
+"Валентин Король";Король;46346345;0955654808;agent@ferrum.kiev.ua;$2y$10$.8h7JQRSSdtcrUfZI9FTx.mUkFOSdskxTwESm05QE5qxXlc.V08GW;1;1615835340;aadsad
+"Валентин Король";Краков;646;0955654808;agent@ferrum.kiev.ua;$2y$10$U05XGabCagV9mxy3RNT6oehW8WrnyDVJbmWWTKQXlt02kCdps/fJ6;1;1616081037;ADMIN
+Валентин;Король;46346345;0955654808;agent@ferrum.kiev.ua;$2y$10$x1I2Dl7Gjhuru04MXJpCreyZmAZzt9VKUAycU.asIUqX8gcEbqaPe;1;1616143588;
+Валентин;Король;46346345;0955654808;agent@ferrum.kiev.uas;$2y$10$FNAexR3J5O9NCwYTRH6mPOVFkwXdWompI9MLdPduDPX/JAw5GFVdW;1;1616143654;
+Валентин;Король;46346345;0955654808;agent@ferrum.kiev.uas;$2y$10$DgwPwnR61xyICHxU27eD9upW5UyDg7cunbM9UardQb19ZvPGrRD4S;1;1616143709;

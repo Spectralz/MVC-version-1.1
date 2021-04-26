@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<users>
+  <row>0</row>
+  <userid>userid</userid>
+  <name>name</name>
+  <lastname>lastname</lastname>
+  <dateofbirth>dateofbirth</dateofbirth>
+  <telephone>telephone</telephone>
+  <email>email</email>
+  <password>password</password>
+  <gender>gender</gender>
+  <dateregistration>dateregistration</dateregistration>
+  <notes>notes</notes>
+  <row>1</row>
+  <userid>&#x412;&#x430;&#x43B;&#x435;&#x43D;&#x442;&#x438;&#x43D; &#x41A;&#x43E;&#x440;&#x43E;&#x43B;&#x44C;</userid>
+  <name>&#x41A;&#x43E;&#x440;&#x43E;&#x43B;&#x44C;</name>
+  <lastname>46346345</lastname>
+  <dateofbirth>0955654808</dateofbirth>
+  <telephone>agent@ferrum.kiev.ua</telephone>
+  <email>$2y$10$.8h7JQRSSdtcrUfZI9FTx.mUkFOSdskxTwESm05QE5qxXlc.V08GW</email>
+  <password>1</password>
+  <gender>1615835340</gender>
+  <dateregistration>aadsad</dateregistration>
+</users>

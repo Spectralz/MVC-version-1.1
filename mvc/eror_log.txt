@@ -1,0 +1,24 @@
+21-03-2021 14:30:13;	 IP: 127.0.0.1;	Notice: Division by Zeros  - args:[6,0];	 Line: 10;	 File: C:\OpenServer\domains\MVC\TestExceptions.php
+21-03-2021 16:59:06;	 IP: 127.0.0.1;	:  - args:["C:\\OpenServer\\domains\\MVC\\views\\registration.php"];	 Line: 60;	 File: C:\OpenServer\domains\MVC\views\registration.php
+21-03-2021 17:01:41;	 IP: 127.0.0.1;	:  - args:["C:\\OpenServer\\domains\\MVC\\views\\registration.php"];	 Line: 60;	 File: C:\OpenServer\domains\MVC\views\registration.php
+24-03-2021 14:56:31;	 IP: 127.0.0.1;	Error: Введено не число - args:[5];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 14:57:56;	 IP: 127.0.0.1;	Error: Введено не число - args:["lkjk"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 15:53:17;	 IP: 127.0.0.1;	Error: Введено не число - args:["kuhkn"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 15:54:10;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 15:56:06;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 15:57:22;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:00:04;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:00:58;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:01:53;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:02:24;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:02:42;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:02:57;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:03:08;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:03:43;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:04:05;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:04:36;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:16:16;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:16:44;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+24-03-2021 16:17:42;	 IP: 127.0.0.1;	Error: Введено не число - args:["dfsdfsdf"];	 Line: 17;	 File: C:\OpenServer\domains\MVC\controllers\Validation.php
+07-04-2021 13:33:46;	 Notice: Division by Zeros ;	 Line: 9;	 File: /var/www/mvc/TestExceptions.php
+07-04-2021 13:51:16;	 Notice: Division by Zeros ;	 Line: 9;	 File: /var/www/mvc/TestExceptions.php
